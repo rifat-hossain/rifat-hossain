@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 Hi, I'm [Rifat Hossain](https://rifat-hossain.github.io/), a Full Stack Developer 🚀 from Bangladesh, 
 
-  <img align="right" alt="GIF" src="" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/rifat-hossain/rifat-hossain/blob/main/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
